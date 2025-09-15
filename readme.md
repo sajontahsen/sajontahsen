@@ -5,9 +5,11 @@
 </picture>
 
 
-## Hello, I'm Sajon ⚓
+## Hello, I'm Tahsen (pronounced: tah-seen) ⚓
 
-- 🛠️ **Machine Learning Engineer** at ACI Limited, Bangladesh.
+- ☕️ **Research Assistant & CS PhD Student** at the University of Illinois, Chicago.
+
+- 🛠️ **[Former] Machine Learning Engineer** at ACI Limited, Bangladesh.
 
 - 🌱 My interests include, broadly: **Applied Machine Learning Research (Particularly in Computer Vision), Distributed Scalable Systems, etc.**
 
